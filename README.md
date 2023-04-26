@@ -1,7 +1,7 @@
 # pdf_browser
 Visualizador de PDF
 
-Janela principal pdf_browser.py.py
+Janela principal pdf_browser.py
 
 Utiliza Glade e GtkBuilder para desenvolver a interface gráfica do projeto.
 
